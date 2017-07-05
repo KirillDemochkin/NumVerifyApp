@@ -1,0 +1,178 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\xAdmin\AndroidStudioProjects\NumVeifyApp\app\src\main\AndroidManifest.xml:2:1-50:12
+	package
+		ADDED from C:\Users\xAdmin\AndroidStudioProjects\NumVeifyApp\app\src\main\AndroidManifest.xml:3:5-38
+		INJECTED from C:\Users\xAdmin\AndroidStudioProjects\NumVeifyApp\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\xAdmin\AndroidStudioProjects\NumVeifyApp\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\xAdmin\AndroidStudioProjects\NumVeifyApp\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\xAdmin\AndroidStudioProjects\NumVeifyApp\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\xAdmin\AndroidStudioProjects\NumVeifyApp\app\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from C:\Users\xAdmin\AndroidStudioProjects\NumVeifyApp\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\xAdmin\AndroidStudioProjects\NumVeifyApp\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\xAdmin\AndroidStudioProjects\NumVeifyApp\app\src\main\AndroidManifest.xml:5:5-67
+MERGED from [com.google.android.gms:play-services-maps:10.2.1] C:\Users\xAdmin\.android\build-cache\13e4ac0638a8f613fcf7d58c1ead1c1c83f14269\output\AndroidManifest.xml:20:5-66
+	android:name
+		ADDED from C:\Users\xAdmin\AndroidStudioProjects\NumVeifyApp\app\src\main\AndroidManifest.xml:5:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from C:\Users\xAdmin\AndroidStudioProjects\NumVeifyApp\app\src\main\AndroidManifest.xml:6:5-79
+MERGED from [com.google.android.gms:play-services-maps:10.2.1] C:\Users\xAdmin\.android\build-cache\13e4ac0638a8f613fcf7d58c1ead1c1c83f14269\output\AndroidManifest.xml:19:5-78
+	android:name
+		ADDED from C:\Users\xAdmin\AndroidStudioProjects\NumVeifyApp\app\src\main\AndroidManifest.xml:6:22-76
+uses-permission#android.permission.READ_CONTACTS
+ADDED from C:\Users\xAdmin\AndroidStudioProjects\NumVeifyApp\app\src\main\AndroidManifest.xml:7:5-72
+	android:name
+		ADDED from C:\Users\xAdmin\AndroidStudioProjects\NumVeifyApp\app\src\main\AndroidManifest.xml:7:22-69
+uses-permission#android.permission.CAMERA
+ADDED from C:\Users\xAdmin\AndroidStudioProjects\NumVeifyApp\app\src\main\AndroidManifest.xml:8:5-65
+	android:name
+		ADDED from C:\Users\xAdmin\AndroidStudioProjects\NumVeifyApp\app\src\main\AndroidManifest.xml:8:22-62
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from C:\Users\xAdmin\AndroidStudioProjects\NumVeifyApp\app\src\main\AndroidManifest.xml:9:5-81
+	android:name
+		ADDED from C:\Users\xAdmin\AndroidStudioProjects\NumVeifyApp\app\src\main\AndroidManifest.xml:9:22-78
+uses-feature#android.hardware.camera2
+ADDED from C:\Users\xAdmin\AndroidStudioProjects\NumVeifyApp\app\src\main\AndroidManifest.xml:11:5-13:36
+	android:required
+		ADDED from C:\Users\xAdmin\AndroidStudioProjects\NumVeifyApp\app\src\main\AndroidManifest.xml:13:9-33
+	android:name
+		ADDED from C:\Users\xAdmin\AndroidStudioProjects\NumVeifyApp\app\src\main\AndroidManifest.xml:12:9-48
+application
+ADDED from C:\Users\xAdmin\AndroidStudioProjects\NumVeifyApp\app\src\main\AndroidManifest.xml:15:5-48:19
+MERGED from [com.android.support:appcompat-v7:25.3.0] C:\Users\xAdmin\.android\build-cache\d7fdcd940afb53e36d05a65adb84a6fbd405a320\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.3.0] C:\Users\xAdmin\.android\build-cache\7b9b8921201457f3cd33a91abc92a3b303f9fae1\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:25.3.0] C:\Users\xAdmin\.android\build-cache\b1b907e51e19a566f985482d117f84fc1cab6199\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\xAdmin\.android\build-cache\4961e8cf65aa841947014cbbfd7e91e689aeb156\output\AndroidManifest.xml:9:5-20
+MERGED from [com.jakewharton.threetenabp:threetenabp:1.0.5] C:\Users\xAdmin\.android\build-cache\793ead882b559a9b42632326c345f496ccc7a698\output\AndroidManifest.xml:8:5-20
+MERGED from [com.google.android.gms:play-services-maps:10.2.1] C:\Users\xAdmin\.android\build-cache\13e4ac0638a8f613fcf7d58c1ead1c1c83f14269\output\AndroidManifest.xml:24:5-19
+MERGED from [com.google.android.gms:play-services-base:10.2.1] C:\Users\xAdmin\.android\build-cache\12a18012f3157e673b0ad29c112ba58030c3b42e\output\AndroidManifest.xml:18:5-20:19
+MERGED from [com.google.android.gms:play-services-tasks:10.2.1] C:\Users\xAdmin\.android\build-cache\8c6360a86056fc478ae6d637d70394977b1e90f3\output\AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-basement:10.2.1] C:\Users\xAdmin\.android\build-cache\0994c10e9df5bcbae12f9a97f2467b569d0afc4f\output\AndroidManifest.xml:19:5-21:19
+MERGED from [com.android.support:support-v4:25.3.0] C:\Users\xAdmin\.android\build-cache\aec1c838fbdd3f944436bc47a695da06aeae31be\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:25.3.0] C:\Users\xAdmin\.android\build-cache\6cbb546668e49777bea207bda7468db0c8fcc887\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:25.3.0] C:\Users\xAdmin\.android\build-cache\6ac26f526cb2ffccee22c585e9f94afbd6c232f3\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:25.3.0] C:\Users\xAdmin\.android\build-cache\8391ce56fd1d8d96f89f830c52d7222792bb51c5\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:25.3.0] C:\Users\xAdmin\.android\build-cache\07c91ad50a02fe71401b9d63c2ae72342a5ee593\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-compat:25.3.0] C:\Users\xAdmin\.android\build-cache\9e53cae46390e07ca018338c0386cfab8fded271\output\AndroidManifest.xml:29:5-20
+	android:label
+		ADDED from C:\Users\xAdmin\AndroidStudioProjects\NumVeifyApp\app\src\main\AndroidManifest.xml:18:9-41
+	android:supportsRtl
+		ADDED from C:\Users\xAdmin\AndroidStudioProjects\NumVeifyApp\app\src\main\AndroidManifest.xml:20:9-35
+	android:roundIcon
+		ADDED from C:\Users\xAdmin\AndroidStudioProjects\NumVeifyApp\app\src\main\AndroidManifest.xml:19:9-54
+	android:allowBackup
+		ADDED from C:\Users\xAdmin\AndroidStudioProjects\NumVeifyApp\app\src\main\AndroidManifest.xml:16:9-35
+	android:icon
+		ADDED from C:\Users\xAdmin\AndroidStudioProjects\NumVeifyApp\app\src\main\AndroidManifest.xml:17:9-43
+	android:theme
+		ADDED from C:\Users\xAdmin\AndroidStudioProjects\NumVeifyApp\app\src\main\AndroidManifest.xml:21:9-40
+meta-data#com.google.android.gms.version
+ADDED from C:\Users\xAdmin\AndroidStudioProjects\NumVeifyApp\app\src\main\AndroidManifest.xml:22:9-24:69
+MERGED from [com.google.android.gms:play-services-basement:10.2.1] C:\Users\xAdmin\.android\build-cache\0994c10e9df5bcbae12f9a97f2467b569d0afc4f\output\AndroidManifest.xml:20:9-121
+	android:value
+		ADDED from C:\Users\xAdmin\AndroidStudioProjects\NumVeifyApp\app\src\main\AndroidManifest.xml:24:13-66
+	android:name
+		ADDED from C:\Users\xAdmin\AndroidStudioProjects\NumVeifyApp\app\src\main\AndroidManifest.xml:23:13-58
+meta-data#com.google.android.geo.API_KEY
+ADDED from C:\Users\xAdmin\AndroidStudioProjects\NumVeifyApp\app\src\main\AndroidManifest.xml:25:9-27:55
+	android:value
+		ADDED from C:\Users\xAdmin\AndroidStudioProjects\NumVeifyApp\app\src\main\AndroidManifest.xml:27:13-52
+	android:name
+		ADDED from C:\Users\xAdmin\AndroidStudioProjects\NumVeifyApp\app\src\main\AndroidManifest.xml:26:13-58
+activity#com.javalab.numveifyapp.MainActivity
+ADDED from C:\Users\xAdmin\AndroidStudioProjects\NumVeifyApp\app\src\main\AndroidManifest.xml:29:9-31:52
+	android:screenOrientation
+		ADDED from C:\Users\xAdmin\AndroidStudioProjects\NumVeifyApp\app\src\main\AndroidManifest.xml:31:13-49
+	android:name
+		ADDED from C:\Users\xAdmin\AndroidStudioProjects\NumVeifyApp\app\src\main\AndroidManifest.xml:30:13-41
+activity#com.javalab.numveifyapp.MainMenuActivity
+ADDED from C:\Users\xAdmin\AndroidStudioProjects\NumVeifyApp\app\src\main\AndroidManifest.xml:32:9-40:20
+	android:screenOrientation
+		ADDED from C:\Users\xAdmin\AndroidStudioProjects\NumVeifyApp\app\src\main\AndroidManifest.xml:34:13-49
+	android:name
+		ADDED from C:\Users\xAdmin\AndroidStudioProjects\NumVeifyApp\app\src\main\AndroidManifest.xml:33:13-45
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from C:\Users\xAdmin\AndroidStudioProjects\NumVeifyApp\app\src\main\AndroidManifest.xml:35:13-39:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\xAdmin\AndroidStudioProjects\NumVeifyApp\app\src\main\AndroidManifest.xml:36:17-69
+	android:name
+		ADDED from C:\Users\xAdmin\AndroidStudioProjects\NumVeifyApp\app\src\main\AndroidManifest.xml:36:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\xAdmin\AndroidStudioProjects\NumVeifyApp\app\src\main\AndroidManifest.xml:38:17-77
+	android:name
+		ADDED from C:\Users\xAdmin\AndroidStudioProjects\NumVeifyApp\app\src\main\AndroidManifest.xml:38:27-74
+activity#com.javalab.numveifyapp.ItemView
+ADDED from C:\Users\xAdmin\AndroidStudioProjects\NumVeifyApp\app\src\main\AndroidManifest.xml:41:9-43:52
+	android:screenOrientation
+		ADDED from C:\Users\xAdmin\AndroidStudioProjects\NumVeifyApp\app\src\main\AndroidManifest.xml:43:13-49
+	android:name
+		ADDED from C:\Users\xAdmin\AndroidStudioProjects\NumVeifyApp\app\src\main\AndroidManifest.xml:42:13-37
+activity#com.javalab.numveifyapp.scanNumberActivity
+ADDED from C:\Users\xAdmin\AndroidStudioProjects\NumVeifyApp\app\src\main\AndroidManifest.xml:44:9-46:51
+	android:screenOrientation
+		ADDED from C:\Users\xAdmin\AndroidStudioProjects\NumVeifyApp\app\src\main\AndroidManifest.xml:46:13-49
+	android:name
+		ADDED from C:\Users\xAdmin\AndroidStudioProjects\NumVeifyApp\app\src\main\AndroidManifest.xml:45:13-47
+activity#com.javalab.numveifyapp.opencvActivity
+ADDED from C:\Users\xAdmin\AndroidStudioProjects\NumVeifyApp\app\src\main\AndroidManifest.xml:47:9-61
+	android:name
+		ADDED from C:\Users\xAdmin\AndroidStudioProjects\NumVeifyApp\app\src\main\AndroidManifest.xml:47:19-49
+uses-sdk
+INJECTED from C:\Users\xAdmin\AndroidStudioProjects\NumVeifyApp\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support:appcompat-v7:25.3.0] C:\Users\xAdmin\.android\build-cache\d7fdcd940afb53e36d05a65adb84a6fbd405a320\output\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:25.3.0] C:\Users\xAdmin\.android\build-cache\7b9b8921201457f3cd33a91abc92a3b303f9fae1\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.3.0] C:\Users\xAdmin\.android\build-cache\b1b907e51e19a566f985482d117f84fc1cab6199\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\xAdmin\.android\build-cache\4961e8cf65aa841947014cbbfd7e91e689aeb156\output\AndroidManifest.xml:5:5-7:41
+MERGED from [com.jakewharton.threetenabp:threetenabp:1.0.5] C:\Users\xAdmin\.android\build-cache\793ead882b559a9b42632326c345f496ccc7a698\output\AndroidManifest.xml:6:5-44
+MERGED from [com.google.android.gms:play-services-maps:10.2.1] C:\Users\xAdmin\.android\build-cache\13e4ac0638a8f613fcf7d58c1ead1c1c83f14269\output\AndroidManifest.xml:23:5-43
+MERGED from [com.google.android.gms:play-services-base:10.2.1] C:\Users\xAdmin\.android\build-cache\12a18012f3157e673b0ad29c112ba58030c3b42e\output\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-tasks:10.2.1] C:\Users\xAdmin\.android\build-cache\8c6360a86056fc478ae6d637d70394977b1e90f3\output\AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-basement:10.2.1] C:\Users\xAdmin\.android\build-cache\0994c10e9df5bcbae12f9a97f2467b569d0afc4f\output\AndroidManifest.xml:17:5-43
+MERGED from [com.android.support:support-v4:25.3.0] C:\Users\xAdmin\.android\build-cache\aec1c838fbdd3f944436bc47a695da06aeae31be\output\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.3.0] C:\Users\xAdmin\.android\build-cache\6cbb546668e49777bea207bda7468db0c8fcc887\output\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.3.0] C:\Users\xAdmin\.android\build-cache\6ac26f526cb2ffccee22c585e9f94afbd6c232f3\output\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-ui:25.3.0] C:\Users\xAdmin\.android\build-cache\8391ce56fd1d8d96f89f830c52d7222792bb51c5\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:25.3.0] C:\Users\xAdmin\.android\build-cache\07c91ad50a02fe71401b9d63c2ae72342a5ee593\output\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:25.3.0] C:\Users\xAdmin\.android\build-cache\9e53cae46390e07ca018338c0386cfab8fded271\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.rmtheis:tess-two:6.0.3] C:\Users\xAdmin\.android\build-cache\448149844fd352a625bb842120c6b937f4267ec6\output\AndroidManifest.xml:22:5-24:41
+MERGED from [NumVeifyApp:openCVLibrary320:unspecified] C:\Users\xAdmin\AndroidStudioProjects\NumVeifyApp\openCVLibrary320\build\intermediates\bundles\default\AndroidManifest.xml:7:5-9:41
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:25.3.0] C:\Users\xAdmin\.android\build-cache\d7fdcd940afb53e36d05a65adb84a6fbd405a320\output\AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from C:\Users\xAdmin\AndroidStudioProjects\NumVeifyApp\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\xAdmin\AndroidStudioProjects\NumVeifyApp\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\xAdmin\AndroidStudioProjects\NumVeifyApp\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\xAdmin\AndroidStudioProjects\NumVeifyApp\app\src\main\AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:appcompat-v7:25.3.0] C:\Users\xAdmin\.android\build-cache\d7fdcd940afb53e36d05a65adb84a6fbd405a320\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:animated-vector-drawable:25.3.0] C:\Users\xAdmin\.android\build-cache\7b9b8921201457f3cd33a91abc92a3b303f9fae1\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-vector-drawable:25.3.0] C:\Users\xAdmin\.android\build-cache\b1b907e51e19a566f985482d117f84fc1cab6199\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-v4:25.3.0] C:\Users\xAdmin\.android\build-cache\aec1c838fbdd3f944436bc47a695da06aeae31be\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-fragment:25.3.0] C:\Users\xAdmin\.android\build-cache\6cbb546668e49777bea207bda7468db0c8fcc887\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-media-compat:25.3.0] C:\Users\xAdmin\.android\build-cache\6ac26f526cb2ffccee22c585e9f94afbd6c232f3\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-ui:25.3.0] C:\Users\xAdmin\.android\build-cache\8391ce56fd1d8d96f89f830c52d7222792bb51c5\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-utils:25.3.0] C:\Users\xAdmin\.android\build-cache\07c91ad50a02fe71401b9d63c2ae72342a5ee593\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-compat:25.3.0] C:\Users\xAdmin\.android\build-cache\9e53cae46390e07ca018338c0386cfab8fded271\output\AndroidManifest.xml:25:5-27:34
+	android:value
+		ADDED from [com.android.support:appcompat-v7:25.3.0] C:\Users\xAdmin\.android\build-cache\d7fdcd940afb53e36d05a65adb84a6fbd405a320\output\AndroidManifest.xml:27:9-31
+	android:name
+		ADDED from [com.android.support:appcompat-v7:25.3.0] C:\Users\xAdmin\.android\build-cache\d7fdcd940afb53e36d05a65adb84a6fbd405a320\output\AndroidManifest.xml:26:9-47
+uses-feature#0x00020000
+ADDED from [com.google.android.gms:play-services-maps:10.2.1] C:\Users\xAdmin\.android\build-cache\13e4ac0638a8f613fcf7d58c1ead1c1c83f14269\output\AndroidManifest.xml:21:5-77
+	android:glEsVersion
+		ADDED from [com.google.android.gms:play-services-maps:10.2.1] C:\Users\xAdmin\.android\build-cache\13e4ac0638a8f613fcf7d58c1ead1c1c83f14269\output\AndroidManifest.xml:21:19-51
+	android:required
+		ADDED from [com.google.android.gms:play-services-maps:10.2.1] C:\Users\xAdmin\.android\build-cache\13e4ac0638a8f613fcf7d58c1ead1c1c83f14269\output\AndroidManifest.xml:21:52-75
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:10.2.1] C:\Users\xAdmin\.android\build-cache\12a18012f3157e673b0ad29c112ba58030c3b42e\output\AndroidManifest.xml:19:9-172
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:10.2.1] C:\Users\xAdmin\.android\build-cache\12a18012f3157e673b0ad29c112ba58030c3b42e\output\AndroidManifest.xml:19:146-170
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:10.2.1] C:\Users\xAdmin\.android\build-cache\12a18012f3157e673b0ad29c112ba58030c3b42e\output\AndroidManifest.xml:19:86-145
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:10.2.1] C:\Users\xAdmin\.android\build-cache\12a18012f3157e673b0ad29c112ba58030c3b42e\output\AndroidManifest.xml:19:19-85

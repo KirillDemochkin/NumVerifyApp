@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "C:\\Users\\xAdmin\\AndroidStudioProjects\\NumVeifyApp\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_template_icon_group.xml",
+        "source": "C:\\Users\\xAdmin\\.android\\build-cache\\d7fdcd940afb53e36d05a65adb84a6fbd405a320\\output\\res\\layout-v21\\notification_template_icon_group.xml"
+    },
+    {
+        "merged": "C:\\Users\\xAdmin\\AndroidStudioProjects\\NumVeifyApp\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_action.xml",
+        "source": "C:\\Users\\xAdmin\\.android\\build-cache\\d7fdcd940afb53e36d05a65adb84a6fbd405a320\\output\\res\\layout-v21\\notification_action.xml"
+    },
+    {
+        "merged": "C:\\Users\\xAdmin\\AndroidStudioProjects\\NumVeifyApp\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_action_tombstone.xml",
+        "source": "C:\\Users\\xAdmin\\.android\\build-cache\\d7fdcd940afb53e36d05a65adb84a6fbd405a320\\output\\res\\layout-v21\\notification_action_tombstone.xml"
+    },
+    {
+        "merged": "C:\\Users\\xAdmin\\AndroidStudioProjects\\NumVeifyApp\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_template_custom_big.xml",
+        "source": "C:\\Users\\xAdmin\\.android\\build-cache\\d7fdcd940afb53e36d05a65adb84a6fbd405a320\\output\\res\\layout-v21\\notification_template_custom_big.xml"
+    }
+]
