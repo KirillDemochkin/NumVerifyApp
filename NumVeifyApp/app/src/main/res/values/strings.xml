@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">NumVerifyApp</string>
+    <string name="mainActivityName">New Entry</string>
+    <string name="localTimeLabel">Local Time at Calculated Location</string>
+    <string name="locationLabel">Calculated Location</string>
+    <string name="calculateLocationButtonPrompt">Calculate Location</string>
+    <string name="google_maps_key">AIzaSyBfp060_lTrIYkKQ5fTWUq9UUlu6_U_9bk</string>
+    <string name="add_new_number">Add New Number</string>
+    <string name="done">Done</string>
+    <string name="save">Save</string>
+    <string name="scan">Scan</string>
+    <string name="capture">CAPTURE</string>
+    <string name="use_opencv">Use OpenCV</string>
+</resources>
